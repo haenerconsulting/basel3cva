@@ -1,0 +1,54 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      1136,         45]
+NotebookOptionsPosition[       820,         29]
+NotebookOutlinePosition[      1165,         44]
+CellTagsIndexPosition[      1122,         41]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Dependence of Default Times", "Title",
+ CellChangeTimes->{{3.557975486260996*^9, 3.55797549717062*^9}}],
+
+Cell["Mashall - Olkin Copula", "Subsubtitle",
+ CellChangeTimes->{{3.5579756437830057`*^9, 3.557975668903443*^9}}]
+}, Open  ]]
+},
+WindowSize->{707, 867},
+WindowMargins->{{Automatic, 210}, {19, Automatic}},
+FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (November 7, 2010)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 109, 1, 83, "Title"],
+Cell[691, 25, 113, 1, 28, "Subsubtitle"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
